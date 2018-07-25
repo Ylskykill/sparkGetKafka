@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="hadoop">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../spark-2.3.0-bin-hadoop2.6/spark-2.3.0-bin-hadoop2.6/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../spark-2.3.0-bin-hadoop2.6/spark-2.3.0-bin-hadoop2.6/jars" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-streaming_2.11-2.3.0-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../spark-2.3.0-bin-hadoop2.6/spark-2.3.0-bin-hadoop2.6/jars" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../spark-2.3.0-bin-hadoop2.6/spark-2.3.0-bin-hadoop2.6/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
